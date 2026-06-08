@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  Chongzi Chen             : "Your Sidebar Name"
+  "Chongzi Chen"             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  PhD student in Mathematics              : "Short biography for the left-hand sidebar"
-  Rochester, NY 14620, USA         : "Earth"
-  University of Rochester         : "Red Brick University"
+  "PhD student in Mathematics"              : "Short biography for the left-hand sidebar"
+  "Rochester, NY 14620, USA"         : "Earth"
+  "University of Rochester"         : "Red Brick University"
   uri              : # URL
-  cchen151@ur.rochester.edu            : "none@example.org" 
+  "cchen151@ur.rochester.edu"            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
